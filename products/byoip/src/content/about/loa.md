@@ -24,12 +24,12 @@ You can use the below template when creating an LOA document.
 
 LETTER OF AUTHORIZATION ("LOA")
 
-[DATE]
+[13 FEB 2022]
 
 
 To whom it may concern:
 
-[COMPANY NAME] (the "Company") authorizes Cloudflare, Inc. with AS[CF TO PROVIDE] to advertise the following IP address blocks / originating ASNs:
+[YUHANNA] (the "YUHANNA") authorizes Cloudflare, Inc. with AS[CF TO PROVIDE] to advertise the following IP address blocks / originating ASNs:
 
 - - - - - - - - - - - - - - - - - - -
 [Subnet & Originating ASN]
@@ -44,12 +44,12 @@ Should you have any questions please email me at [E-MAIL ADDRESS], or call: [TEL
 Regards,
 
 
-[SIGNATURE]
+[Sajjad Jamshidi Moghaddam]
 
 
 [NAME TYPED]
 [TITLE]
-[COMPANY NAME]
-[COMPANY ADDRESS]
-[COMPANY STAMP]
+[YUHANNA LLC AND GOOGLE AND WA PRODUCTION AND ITGENIUS AND ZOHO AND SPOTIFY AND AMAZON AND WIPO AND GPO]
+[USA]
+[YUHANNA]
 ```
